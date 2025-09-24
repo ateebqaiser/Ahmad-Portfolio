@@ -13,6 +13,7 @@ const NavBar = () => {
     }
   }, [darkMode]);
 
+  
   return (
     <>
       <header>
